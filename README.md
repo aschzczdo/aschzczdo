@@ -1,4 +1,4 @@
-## 🚀 Full Stack Developer | Backend Expert • Frontend Explorer • Mobile Creator
+## 🚀 Full Stack Developer | Backend Expert • Frontend Explorer •
 
 Full-stack developer with a solid foundation in backend (Python, PHP, Java) and hands-on experience in frontend and mobile development. Creator of modern web applications and native iOS apps.
 
